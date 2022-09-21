@@ -37,6 +37,7 @@ int main(){
             }
             
         }
+        printf("--------array-1--------");
         printf("%d \n",a[i]);
     }
     
