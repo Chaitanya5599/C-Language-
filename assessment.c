@@ -10,7 +10,7 @@ int main()
     printf("Main Menu\n");
     printf("   1.reverse a string\n");
     printf("   2.Concatenation\n");
-    printf("   3.Palindrome\n");
+    printf("   3.Palindrome \n");
     printf("   4. Copy a string\n");
     printf("   5.Length of the string\n");
     printf("   6.Frequency of character in s string\n");
