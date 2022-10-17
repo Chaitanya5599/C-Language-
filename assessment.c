@@ -32,7 +32,7 @@ int main()
 switch(ch)
     {
     case 1:
-    //strrev(s1);
+    strrev(s1);
     break;
     
     case 2:
